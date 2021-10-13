@@ -5,6 +5,9 @@
 O discord-tweet-bot é um bot de discord feito em Java que utiliza [JDA](https://github.com/DV8FromTheWorld/JDA) (Java Discord API) para o bot e [Twittered](https://github.com/redouane59/twittered) para enviar os Tweet's.
 
 #### p.s: Nenhum TOKEN que está no código está funcionando.
+
+![Obrigado kp por me ajudar a pensar!](https://i.imgur.com/LwuZrgk.png)
+
 ## Instalação
 
 O primeiro passo para instalar e funcionar corretamente é colocando o Token do seu bot de discord, que pode ser encontrado na aba "bots" [da sua aplicação](https://discord.com/developers/applications) do Discord.
